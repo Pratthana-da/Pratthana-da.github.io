@@ -3,9 +3,7 @@
 
 สำหรับวิชา OOP
 
-[Youtude](https://www.youtube.com/results?search_query=BTS)
-
-![Babanner](./BA.jpg)
+[Youtude](https://www.youtube.com/watch?v=-5q5mZbe3V8)
 
 
 ![Bbanner](./banner.jpg)
