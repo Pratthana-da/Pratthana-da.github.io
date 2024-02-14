@@ -10,11 +10,10 @@
 
 ##คำสั่งพื้นฐาน git 
 
-'''
+```
 git status
 git add
 git commit
-'''
-
+```
 
 ปรารถนา ดาวงศ์
