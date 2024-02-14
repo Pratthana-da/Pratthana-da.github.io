@@ -8,12 +8,21 @@
 
 ![Bbanner](./banner.jpg)
 
-##คำสั่งพื้นฐาน git 
+##คำสั่ง git พื้นฐาน 
 
 ```
 git status
 git add
 git commit
 ```
+
+##คำสั่ง Python พื้นฐาน
+
+```python
+d = { 'Anna': 3.99, 'Betty': 3.78 }
+for k,v, in d.items():
+   print(k, v)
+```
+
 
 ปรารถนา ดาวงศ์
