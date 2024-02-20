@@ -24,5 +24,23 @@ for k,v, in d.items():
    print(k, v)
 ```
 
+#วิธีการ run
+
+```
+pygame
+   python pygame/app01.py
+pyside6
+   python pyside6/app01.py
+streamlit
+   streamlit run streamlit/app01.py
+diffusers
+   python diffusers/app01.py
+   
+```
+#การติดตั้ง
+```
+diffuser
+   pip install --upgra
+
 
 ปรารถนา ดาวงศ์
