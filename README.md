@@ -3,7 +3,7 @@
 
 สำหรับวิชา OOP
 
-[Youtude](https://www.youtube.com/watch?v=-5q5mZbe3V8)
+[Youtube](https://www.youtube.com/watch?v=-5q5mZbe3V8)
 
 
 ![Bbanner](./banner.jpg)
