@@ -41,6 +41,7 @@ diffusers
 ```
 diffuser
    pip install --upgra
+```
 
 
 ```
